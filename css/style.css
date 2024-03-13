@@ -1,0 +1,308 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200..1000&display=swap');
+
+body{
+    font-family: "Cairo", sans-serif;
+}
+
+
+/* start header  */
+
+.header {
+    background-color: #00CED1;
+    color: white;
+    height: 50px;
+    line-height: 50px;
+}
+
+.header a{
+    float: right;
+    color: white;
+    margin-top: 5px;
+}
+
+
+/* end header  */
+
+/* start courses1  */
+
+.courses1 img:hover{
+transform: scale(1.1);
+
+}
+
+
+/* end courses1  */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* start slider  */
+
+.slide{
+    border-bottom: 3px solid #00CED1;
+}
+
+
+.overlay {
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.293);
+    position: absolute;
+    z-index: 1;
+}
+
+.carousel h5{
+    
+    color: white;
+    
+    
+    
+
+}
+
+.carousel p{
+
+    
+    color: white;
+    
+}
+
+/* end slider  */
+
+/* start feutures */
+
+.feutures{
+    margin-top: 40px;
+    background-color: #eee;
+    border-bottom: 3px solid #00CED1;
+}
+
+.feutures-sss {
+    background-color: rgba(0, 255, 255, 0.371);
+    transition: .5s;
+}
+
+
+
+
+.feutures-sss:hover {
+    margin-top: -10px;
+    color: white;
+    background-color: rgba(5, 211, 211, 0.921);
+    -webkit-text-fill-color: white;
+}
+
+
+
+/* and feutures */
+
+/* start our team  */
+
+.fons-sss:hover{
+    margin-top: -10px;
+    color: white;
+    font-weight: bold;
+    -webkit-text-fill-color:  black;
+
+}
+
+.our-team{
+    margin-top: 30px;
+    background-color: #eee;
+    padding: 20px;
+    background-image: url(../img/kl4.jpg);
+    align-content: center;
+    border-bottom: 3px solid #00CED1;
+}
+
+/* and our team  */
+
+
+/* start statistic  */
+
+.statistic{
+    margin-top: 40px;
+    width: 100%;
+    background-image: url(../img/kg6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    border-bottom: 3px solid #00CED1;
+}
+
+.dverlay {
+    padding-top: 230px;
+    padding-bottom: 230px;
+    background-color: rgba(0, 0, 0, 0.112);
+    width: 100%;
+    height: 100%;
+
+
+}
+
+.dverlay  h3 {
+    color: white;
+    
+}
+
+.dverlay p {
+    color: white;
+    font-size: 75px;
+
+}
+
+.fons-5555:hover{
+    color: #00CED1;
+    font-weight: bold;
+
+}
+
+
+/* end statistic  */
+
+
+/* start our customers  */
+.our_customers {
+    margin-top: 40px;
+    background-color: #eee;
+    line-height: 100px;
+    background-image: url(../img/kl4.jpg);
+    border-bottom: 3px solid #00CED1;
+    
+}
+
+.mmm:hover{
+    margin-top: -10px;
+    
+
+}
+
+
+
+/* and our customers  */
+
+
+
+/* About Start  */
+.about {
+    border-bottom: 3px solid #00CED1;
+}
+
+/* end Start  */
+
+
+/* start Recnt news  */
+
+
+.recent_news h2{
+    padding-top: 50px;
+}
+
+.recent_news .container{
+    margin-bottom: 70px;
+}
+
+
+
+/* end Recnt news  */
+
+/* start footwr */
+footer{
+    background-color: #09092cee;
+    padding-top: 30px;
+    margin-top: 60px;
+    padding-bottom: 20px;
+    border-top: 3px solid #000b0b;
+    
+}
+
+footer p {
+    color: white;
+}
+footer h2 {
+    color: white;
+}
+footer a{
+    color: white;
+}
+footer a:hover{
+    color: black;
+}
+footer ul li {
+    list-style: none;
+}
+footer button:hover{
+background-color: black;
+}
+.separator {
+    width: 70%;
+    height: 1px;
+    background-color: white;
+    margin: 0 auto;
+}
+.rrrrrr {
+    justify-content: center;
+    padding-bottom: 20px;
+}
+.ffffff {
+    
+    color: white;
+    margin-bottom: 30px;
+    
+}
+.sssss {
+    float: right;
+    color: white;
+    
+    
+    
+}
+
+
+/* end footwr */
+
+
+/* start page name  */
+
+
+.jumbotron{
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.jumbotron .blog_info{
+    flex: 2;
+}
+.jumbotron .blog_image {
+    flex: 1;
+}
+
+
+/* end page name  */
+
+
+/* start blog_details1  */
+
+.blog_details1 p {
+    line-height: 2;
+    padding: 10px;
+
+}
+
+/* end blog_details1  */
+
+
+
